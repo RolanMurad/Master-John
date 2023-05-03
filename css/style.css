@@ -321,6 +321,7 @@ a {
 
 /* !Section Breaking */
 .breakings__item {
+  height:100%;
   padding: 40px;
   background-color: #E9E7FB;
   border-radius: 5px;
